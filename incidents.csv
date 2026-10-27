@@ -1,0 +1,4 @@
+IncidentID,Date,Time,Shift,Location,Department,IncidentType,Severity,InjuryStatus,LostTimeInjury,Cause,CorrectiveAction,Status
+INC101,2026-10-02,09:20,Day,Pit North,Drilling,Near Miss,Low,No,No,Loose rock near work area,Barricade and inspect area,Closed
+INC102,2026-10-08,22:10,Night,Haul Road,Hauling,Unsafe Condition,Medium,No,No,Poor visibility,Inspect lights and road signs,Open
+INC103,2026-10-14,11:45,Day,Processing Plant,Processing,Equipment Failure,High,No,No,Crusher overheating,Stop and inspect crusher,Open

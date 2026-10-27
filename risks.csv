@@ -1,0 +1,4 @@
+RiskID,Date,Location,Hazard,Likelihood,Consequence,RiskScore,Classification,Controls,Status
+R101,2026-10-10,Haul road,Reduced visibility at night,3,3,9,Medium,Inspect lighting and install reflective signs,Open
+R102,2026-10-14,Processing plant,Overheating crusher,4,4,16,High,Stop crusher and arrange maintenance inspection,Open
+R103,2026-10-18,Drilling area,Loose material near drill platform,2,3,6,Medium,Clear loose material before starting work,Controlled

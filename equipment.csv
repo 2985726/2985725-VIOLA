@@ -1,0 +1,6 @@
+EquipmentID,EquipmentType,Manufacturer,OperatingHours,Temperature,Vibration,FuelConsumption,BrakeStatus,TyreStatus,EngineStatus,MaintenanceStatus,Downtime,Availability,NextMaintenanceHours
+EQ001,Haul Truck,Caterpillar,1380,78,4.2,215,OK,Good,OK,Scheduled,24,98.3,1500
+EQ002,Drill,Sandvik,920,87,6.3,132,OK,Good,OK,Due Soon,80,92.0,950
+EQ003,Crusher,Metso,1760,104,8.6,0,OK,Good,OK,Overdue,240,88.0,1700
+EQ004,Loader,Komatsu,640,69,3.1,105,OK,Good,OK,Up to date,15,97.7,800
+EQ005,Bulldozer,Caterpillar,1120,83,4.8,148,OK,Worn,OK,Scheduled,45,96.1,1250

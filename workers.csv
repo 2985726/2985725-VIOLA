@@ -1,0 +1,7 @@
+WorkerID,Department,JobRole,Shift,PPE_Compliance,SafetyTrainingStatus,FatigueLevel,SafetyObservations,NearMisses,PreviousIncidents
+W001,Drilling,Drill Operator,Day,96,Completed,2,PPE checked at start of shift,0,0
+W002,Hauling,Truck Driver,Night,72,Completed,4,Fatigue reported after long shift,1,0
+W003,Processing,Plant Operator,Day,89,Completed,2,Safety glasses inspection completed,0,0
+W004,Maintenance,Mechanic,Day,64,Pending,3,Gloves not worn during inspection,1,1
+W005,Hauling,Truck Driver,Night,98,Completed,1,No unsafe condition reported,0,0
+W006,Drilling,Assistant Driller,Night,83,Completed,5,High fatigue reported,1,0
